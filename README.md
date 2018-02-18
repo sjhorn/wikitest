@@ -1,2 +1,3 @@
 # wikitest
-Test some wiki stuff
+
+[Visit wiki](https://github.com/sjhorn/wikitest/wiki)
